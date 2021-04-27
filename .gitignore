@@ -1,0 +1,8 @@
+my_defender
+*.a
+*.o
+.clangd
+compile_commands.json
+vgcore*
+.vscode
+./lib/my/libmy.a
